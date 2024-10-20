@@ -3,6 +3,6 @@ Implementation of a research paper on using neural networks for options pricing.
 
 This project was undertaken for a leading French bank to explore the use of neural networks in options pricing, with a comparison to traditional pricing methods.
 
-The second part of the project focuses on a personal optimization of the initial work. It features a refined, clean, and easy-to-read codebase, providing significant improvements over the original implementation (C_projet.ipynb).
+The second part of the project focuses on a personal optimization of the initial work. It features a refined, clean, and easy-to-read codebase, providing significant improvements over the original implementation (C_projet.ipynb), with a difference between upper and lower bound equal to the one provided by the article .
 
 
