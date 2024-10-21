@@ -7,4 +7,5 @@ The second part of the project focuses on a personal optimization of the initial
 
 
 ## For 1 November :
-The last aspect, which is another personal contribution, involves the use of 'spno' (I'll explain it in detail later, and I may write a technical paper about it if I find the time). It focuses on improving the convergence of this model by reducing the number of parameters and requiring fewer epochs per training step.
+The last aspect, which is another personal contribution, involves the use of 'spno' (I'll explain it in detail later, and I may write a technical paper about it if I find the time). It focuses on improving the convergence of this model by reducing the number of parameters and requiring fewer epochs per training step. The idea behind it, is all the functions we are looking for have to be L2 . 
+- Stay tuned  ;) 
